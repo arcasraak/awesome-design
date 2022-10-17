@@ -185,6 +185,7 @@ Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issu
 - [Coolors](https://coolors.co/)
 - [Colordot](https://color.hailpixel.com/)
 - [Brand Colors](https://brandcolors.net/)
+- [Branition Colors](https://branition.com/colors)
 - [Material Palette](https://www.materialpalette.com/)
 - [FLATCOLORS](http://www.flatuicolorpicker.com/)
 - [LOLCOLORS](http://www.lolcolors.com/)
